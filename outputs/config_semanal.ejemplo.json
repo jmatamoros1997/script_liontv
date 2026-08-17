@@ -1,0 +1,25 @@
+{
+  "estados": [
+    {
+      "dias": "lunes",
+      "hora": "09:00",
+      "carpeta": "media/lunes",
+      "texto": "Contenido de lunes",
+      "pausa_entre_archivos_segundos": 15
+    },
+    {
+      "dias": ["martes", "miercoles", "jueves"],
+      "hora": "09:00",
+      "carpeta": "media/entre_semana",
+      "texto": "Contenido del dia",
+      "pausa_entre_archivos_segundos": 15
+    },
+    {
+      "dias": ["viernes", "sabado", "domingo"],
+      "hora": "10:00",
+      "carpeta": "media/fin_de_semana",
+      "texto": "Contenido de fin de semana",
+      "pausa_entre_archivos_segundos": 20
+    }
+  ]
+}

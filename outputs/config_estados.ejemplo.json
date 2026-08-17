@@ -1,0 +1,10 @@
+{
+  "estados": [
+    {
+      "hora": "01:30",
+      "carpeta": "media",
+      "texto": "Prueba bot v1.1",
+      "pausa_entre_archivos_segundos": 15
+    }
+  ]
+}

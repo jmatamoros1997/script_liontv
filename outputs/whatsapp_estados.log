@@ -1,0 +1,1246 @@
+2026-08-16 12:06:21,234 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 12:06:36,235 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 12:06:51,236 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:17:13,766 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:17:28,767 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:17:43,771 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:17:58,773 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:18:13,776 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:18:28,777 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:18:43,778 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:18:58,779 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:19:13,780 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:19:28,782 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:19:43,783 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:19:58,784 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:20:13,785 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:20:28,786 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:20:43,788 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:20:58,789 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:21:13,790 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:21:28,791 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:21:43,792 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:21:58,794 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:22:13,795 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:22:28,797 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:22:43,799 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:22:58,801 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:23:13,801 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:23:28,802 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:23:43,803 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:23:58,804 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:24:13,806 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:24:28,807 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:24:43,808 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:24:58,809 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:25:13,810 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:25:28,811 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:25:43,812 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:25:58,814 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:26:13,815 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:26:28,816 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:26:43,817 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:26:58,818 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:27:13,819 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:27:28,820 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:27:43,822 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:27:58,823 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:28:13,824 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:28:28,825 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:28:43,826 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:28:58,827 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:29:13,829 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:29:28,830 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:29:43,831 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:29:58,833 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:30:13,834 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:30:24,926 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:30:39,928 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:30:54,929 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:31:09,930 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:31:24,932 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:31:39,933 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:31:54,934 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:32:09,935 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:32:24,937 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:32:39,938 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:32:54,940 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:33:09,941 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:33:24,943 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:33:39,944 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:33:54,946 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:34:09,947 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:34:24,948 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:34:39,950 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:34:54,951 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:35:09,952 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:35:24,953 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:35:39,954 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:35:54,955 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:36:09,956 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:36:24,957 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:36:39,959 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:36:54,960 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:37:09,960 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:37:24,962 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:37:39,963 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:37:54,964 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:38:09,965 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:38:24,967 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:38:39,968 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:38:54,969 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:39:09,970 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:39:24,972 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:39:39,973 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:39:54,975 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:40:09,976 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:40:24,977 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:40:39,978 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:40:54,980 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:41:09,981 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:41:24,982 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:41:39,984 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:41:54,985 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:42:09,986 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:42:24,988 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:42:39,989 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:42:54,990 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:43:09,991 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:43:24,992 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:43:39,993 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:44:37,734 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:44:52,736 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:45:07,737 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:45:22,738 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:45:37,739 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:45:52,741 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:46:07,742 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:46:22,743 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:46:37,744 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:46:52,745 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:47:07,746 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:47:22,747 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:47:37,748 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:47:52,749 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:48:07,750 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:48:22,751 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:48:37,753 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:48:52,754 ERROR No fue posible publicar el estado 1
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 106, in run_scheduler
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 58, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\estado_manana.jpg
+2026-08-16 16:57:12,541 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 16:57:43,009 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 127, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 93, in run_once
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 66, in publish_status
+    upload.set_input_files(str(filename))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 20177, in set_input_files
+    self._sync(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_locator.py", line 659, in set_input_files
+    return await self._frame.set_input_files(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_frame.py", line 837, in set_input_files
+    await self._channel.send(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Locator.set_input_files: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[type='file']").last
+
+2026-08-16 16:59:21,203 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 16:59:51,721 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 127, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 93, in run_once
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 66, in publish_status
+    upload.set_input_files(str(filename))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 20177, in set_input_files
+    self._sync(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_locator.py", line 659, in set_input_files
+    return await self._frame.set_input_files(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_frame.py", line 837, in set_input_files
+    await self._channel.send(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Locator.set_input_files: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("input[type='file']").last
+
+2026-08-16 17:04:59,502 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:05:11,339 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 86, in publish_status
+    uploads.last.wait_for(state="attached", timeout=10_000)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 20539, in wait_for
+    self._sync(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_locator.py", line 748, in wait_for
+    await self._frame.wait_for_selector(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_frame.py", line 394, in wait_for_selector
+    await self._channel.send(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("input[type='file']").last
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 153, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 119, in run_once
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 89, in publish_status
+    raise RuntimeError(
+RuntimeError: No aparecio el control para elegir el archivo. Abre manualmente Estados en WhatsApp Web y verifica que tu cuenta permite crear un estado.
+2026-08-16 17:05:29,679 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:05:41,719 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 86, in publish_status
+    uploads.last.wait_for(state="attached", timeout=10_000)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 20539, in wait_for
+    self._sync(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_locator.py", line 748, in wait_for
+    await self._frame.wait_for_selector(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_frame.py", line 394, in wait_for_selector
+    await self._channel.send(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("input[type='file']").last
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 153, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 119, in run_once
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 89, in publish_status
+    raise RuntimeError(
+RuntimeError: No aparecio el control para elegir el archivo. Abre manualmente Estados en WhatsApp Web y verifica que tu cuenta permite crear un estado.
+2026-08-16 17:06:52,776 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:08:52,076 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:09:04,739 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 112, in publish_status
+    uploads.last.wait_for(state="attached", timeout=10_000)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 20539, in wait_for
+    self._sync(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_locator.py", line 748, in wait_for
+    await self._frame.wait_for_selector(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_frame.py", line 394, in wait_for_selector
+    await self._channel.send(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("input[type='file']").last
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 182, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 148, in run_once
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 118, in publish_status
+    raise RuntimeError(
+RuntimeError: No aparecio el control para elegir el archivo. Abre manualmente Estados y verifica que tu cuenta permite crear un estado. Se guardo error_whatsapp_web.png.
+2026-08-16 17:09:39,192 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:09:52,039 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 112, in publish_status
+    if not option.count():
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 20539, in wait_for
+    self._sync(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_locator.py", line 748, in wait_for
+    await self._frame.wait_for_selector(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_frame.py", line 394, in wait_for_selector
+    await self._channel.send(
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.venv\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("input[type='file']").last
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 182, in main
+    logging.basicConfig(filename=LOG_FILE, encoding="utf-8", level=logging.INFO,
+                ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 148, in run_once
+    def due_datetime(item: dict, today: date) -> datetime:
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 118, in publish_status
+    click_icon_button(page, "media-upload")
+RuntimeError: No aparecio el control para elegir el archivo. Abre manualmente Estados y verifica que tu cuenta permite crear un estado. Se guardo error_whatsapp_web.png.
+2026-08-16 17:11:18,518 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:11:23,172 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 193, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 159, in run_once
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 142, in publish_status
+    raise RuntimeError("No encontre el boton Enviar. WhatsApp Web pudo haber cambiado su interfaz.")
+RuntimeError: No encontre el boton Enviar. WhatsApp Web pudo haber cambiado su interfaz.
+2026-08-16 17:12:21,444 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:12:26,540 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 193, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 159, in run_once
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 142, in publish_status
+    raise RuntimeError("No encontre el boton Enviar. WhatsApp Web pudo haber cambiado su interfaz.")
+RuntimeError: No encontre el boton Enviar. WhatsApp Web pudo haber cambiado su interfaz.
+2026-08-16 17:13:38,083 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:13:42,695 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 199, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 165, in run_once
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 146, in publish_status
+    raise RuntimeError(
+RuntimeError: No encontre el boton Enviar. WhatsApp Web pudo haber cambiado su interfaz. Se guardo error_boton_enviar.png.
+2026-08-16 17:19:27,240 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:19:37,692 INFO Estado publicado: domingo.jpeg
+2026-08-16 17:19:37,693 INFO Abriendo Estados para publicar barca.jpeg
+2026-08-16 17:19:53,388 INFO Estado publicado: barca.jpeg
+2026-08-16 17:26:22,851 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:26:33,451 INFO Estado publicado: domingo.jpeg
+2026-08-16 17:26:33,452 INFO Abriendo Estados para publicar barca.jpeg
+2026-08-16 17:26:54,466 INFO Estado publicado: barca.jpeg
+2026-08-16 17:27:35,994 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:27:46,168 INFO Estado publicado: domingo.jpeg
+2026-08-16 17:27:46,168 INFO Abriendo Estados para publicar barca.jpeg
+2026-08-16 17:28:05,825 INFO Estado publicado: barca.jpeg
+2026-08-16 17:30:17,085 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:30:27,965 INFO Estado publicado: domingo.jpeg
+2026-08-16 17:30:27,965 INFO Abriendo Estados para publicar barca.jpeg
+2026-08-16 17:31:01,689 INFO Estado publicado: barca.jpeg
+2026-08-16 17:40:45,786 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:40:59,000 INFO Estado publicado: domingo.jpeg
+2026-08-16 17:40:59,001 INFO Abriendo Estados para publicar barca.jpeg
+2026-08-16 17:41:17,871 INFO Estado publicado: barca.jpeg
+2026-08-16 17:45:48,314 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:46:08,861 INFO Estado publicado: domingo.jpeg
+2026-08-16 17:46:08,862 INFO Abriendo Estados para publicar barca.jpeg
+2026-08-16 17:46:29,324 INFO Estado publicado: barca.jpeg
+2026-08-16 17:47:59,260 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 17:48:26,695 INFO Estado publicado: domingo.jpeg
+2026-08-16 17:48:26,695 INFO Abriendo Estados para publicar barca.jpeg
+2026-08-16 17:48:51,787 INFO Estado publicado: barca.jpeg
+2026-08-16 17:56:55,827 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 248, in main
+    config = load_config()
+             ^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 29, in load_config
+    data = json.loads(CONFIG_FILE.read_text(encoding="utf-8"))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Invalid control character at: line 6 column 82 (char 166)
+2026-08-16 18:04:34,739 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 256, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 223, in run_once
+    publish_item(page, item)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 216, in publish_item
+    publish_status(page, media, str(item.get("texto", "")))
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 111, in publish_status
+    raise FileNotFoundError(f"No se encontro el archivo: {filename}")
+FileNotFoundError: No se encontro el archivo: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media
+2026-08-16 18:10:03,565 INFO Abriendo Estados para publicar arsenal.jpeg
+2026-08-16 18:10:24,581 INFO Estado publicado: arsenal.jpeg
+2026-08-16 18:10:39,583 INFO Abriendo Estados para publicar barca.jpeg
+2026-08-16 18:10:59,024 INFO Estado publicado: barca.jpeg
+2026-08-16 18:11:14,025 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 18:11:33,430 INFO Estado publicado: domingo.jpeg
+2026-08-16 18:15:36,806 INFO Abriendo Estados para publicar arsenal.jpeg
+2026-08-16 18:16:01,582 INFO Estado publicado: arsenal.jpeg
+2026-08-16 18:16:16,583 INFO Abriendo Estados para publicar barca.jpeg
+2026-08-16 18:16:36,029 INFO Estado publicado: barca.jpeg
+2026-08-16 18:16:51,030 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 18:17:10,462 INFO Estado publicado: domingo.jpeg
+2026-08-16 18:17:25,463 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-16 at 6.08.11 PM.jpeg
+2026-08-16 18:17:44,920 INFO Estado publicado: WhatsApp Image 2026-08-16 at 6.08.11 PM.jpeg
+2026-08-16 18:34:43,230 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-15 at 8.08.11 PM.jpeg
+2026-08-16 18:35:04,637 INFO Estado publicado: WhatsApp Image 2026-08-15 at 8.08.11 PM.jpeg
+2026-08-16 18:35:04,866 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 283, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 250, in run_once
+    publish_item(page, item)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 240, in publish_item
+    files = media_for_item(item)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 228, in media_for_item
+    raise FileNotFoundError(f"No se encontro la carpeta: {folder}")
+FileNotFoundError: No se encontro la carpeta: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\entre_semana
+2026-08-16 18:39:23,275 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-15 at 8.08.11 PM.jpeg
+2026-08-16 18:39:45,331 INFO Estado publicado: WhatsApp Image 2026-08-15 at 8.08.11 PM.jpeg
+2026-08-16 18:39:45,332 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-15 at 1.44.30 PM.jpeg
+2026-08-16 18:40:04,969 INFO Estado publicado: WhatsApp Image 2026-08-15 at 1.44.30 PM.jpeg
+2026-08-16 18:40:04,970 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-12 at 12.34.04 PM.jpeg
+2026-08-16 18:40:24,496 INFO Estado publicado: WhatsApp Image 2026-08-12 at 12.34.04 PM.jpeg
+2026-08-16 18:40:24,498 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-11 at 9.22.54 AM.jpeg
+2026-08-16 18:40:44,124 INFO Estado publicado: WhatsApp Image 2026-08-11 at 9.22.54 AM.jpeg
+2026-08-16 18:40:44,330 ERROR Error
+Traceback (most recent call last):
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 283, in main
+    run_once(page, config)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 250, in run_once
+    publish_item(page, item)
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 240, in publish_item
+    files = media_for_item(item)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\whatsapp_estados.py", line 234, in media_for_item
+    raise ValueError(f"No hay imagenes o videos compatibles en: {folder}")
+ValueError: No hay imagenes o videos compatibles en: C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\media\viernes
+2026-08-16 18:58:00,493 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 18:58:39,877 INFO Estado publicado: domingo.jpeg
+2026-08-16 18:58:54,878 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-15 at 6.37.58 AM.jpeg
+2026-08-16 18:59:14,710 INFO Estado publicado: WhatsApp Image 2026-08-15 at 6.37.58 AM.jpeg
+2026-08-16 18:59:29,711 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-16 at 12.08.11 PM.jpeg
+2026-08-16 18:59:49,622 INFO Estado publicado: WhatsApp Image 2026-08-16 at 12.08.11 PM.jpeg
+2026-08-16 19:00:04,623 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-16 at 6.08.11 PM.jpeg
+2026-08-16 19:00:24,266 INFO Estado publicado: WhatsApp Image 2026-08-16 at 6.08.11 PM.jpeg
+2026-08-16 19:00:39,268 INFO Abriendo Estados para publicar WhatsApp Video 2026-08-07 at 7.35.32 AM.mp4
+2026-08-16 19:00:58,762 INFO Estado publicado: WhatsApp Video 2026-08-07 at 7.35.32 AM.mp4
+2026-08-16 19:22:18,618 INFO Abriendo Estados para publicar domingo.jpeg
+2026-08-16 19:22:38,504 INFO Estado publicado: domingo.jpeg
+2026-08-16 19:22:53,504 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-15 at 6.37.58 AM.jpeg
+2026-08-16 19:23:13,709 INFO Estado publicado: WhatsApp Image 2026-08-15 at 6.37.58 AM.jpeg
+2026-08-16 19:23:28,711 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-16 at 12.08.11 PM.jpeg
+2026-08-16 19:23:49,136 INFO Estado publicado: WhatsApp Image 2026-08-16 at 12.08.11 PM.jpeg
+2026-08-16 19:24:04,137 INFO Abriendo Estados para publicar WhatsApp Image 2026-08-16 at 6.08.11 PM.jpeg
+2026-08-16 19:24:24,715 INFO Estado publicado: WhatsApp Image 2026-08-16 at 6.08.11 PM.jpeg
+2026-08-16 19:24:39,716 INFO Abriendo Estados para publicar WhatsApp Video 2026-08-07 at 7.35.32 AM.mp4
+2026-08-16 19:25:05,935 INFO Estado publicado: WhatsApp Video 2026-08-07 at 7.35.32 AM.mp4
