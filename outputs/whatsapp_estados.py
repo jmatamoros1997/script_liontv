@@ -15,9 +15,7 @@ from datetime import date, datetime, time as clock_time
 from pathlib import Path
 
 from playwright.sync_api import BrowserContext, Page, TimeoutError as PlaywrightTimeoutError, sync_playwright
-"""
-Configuraciòn de carpetas de dias
-"""
+
 ROOT = Path(__file__).resolve().parent
 CONFIG_FILE = ROOT / "config_estados.json"
 PROFILE_DIR = ROOT / ".whatsapp_profile"
