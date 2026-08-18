@@ -3,49 +3,49 @@
   "estados": [
     {
       "dias": "lunes",
-      "hora": "08:40",
+      "hora": "18:30",
       "carpeta": "media/lunes",
       "texto": "Contenido de lunes",
       "pausa_entre_archivos_segundos": 15
     },
     {
       "dias" : "martes",
-      "hora": "08:40",
+      "hora": "18:30",
       "carpeta": "media/martes",
       "texto": "Contenido de martes",
       "pausa_entre_archivos_segundos": 15
     },
     {
       "dias" : "miercoles",
-      "hora": "08:40",
+      "hora": "18:30",
       "carpeta": "media/miercoles",
       "texto": "Contenido de miercoles",
       "pausa_entre_archivos_segundos": 15
     },
     {
       "dias" : "jueves",
-      "hora": "08:40",
+      "hora": "18:30",
       "carpeta": "media/jueves",
       "texto": "Contenido de jueves",
       "pausa_entre_archivos_segundos": 15
     },
   {
       "dias" : "viernes",
-      "hora": "08:40",
+      "hora": "18:30",
       "carpeta": "media/viernes",
       "texto": "Contenido de viernes",
       "pausa_entre_archivos_segundos": 15
     },
     {
       "dias" : "sabado",
-      "hora": "08:40",
+      "hora": "18:30",
       "carpeta": "media/sabado",
       "texto": "Contenido de sabado",
       "pausa_entre_archivos_segundos": 15
     },
     {
       "dias" : "domingo",
-      "hora": "08:40",
+      "hora": "18:30",
       "carpeta": "media/domingo",
       "texto": "Contenido de domingo",
       "pausa_entre_archivos_segundos": 15

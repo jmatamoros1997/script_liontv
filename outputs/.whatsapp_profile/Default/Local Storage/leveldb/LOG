@@ -1,3 +1,14 @@
-2026/08/16-19:21:28.839 2808 Reusing MANIFEST C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
-2026/08/16-19:21:28.891 2808 Recovering log #13
-2026/08/16-19:21:28.893 2808 Reusing old log C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.whatsapp_profile\Default\Local Storage\leveldb/000013.log 
+2026/08/17-08:31:58.875 3198 Reusing MANIFEST C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/17-08:31:58.894 3198 Recovering log #13
+2026/08/17-08:31:58.896 3198 Reusing old log C:\Users\BATMAN\Documents\Codex\2026-08-16\generar-script-para-subir-estados-en\outputs\.whatsapp_profile\Default\Local Storage\leveldb/000013.log 
+2026/08/17-08:34:00.527 4268 Level-0 table #17: started
+2026/08/17-08:34:00.534 4268 Level-0 table #17: 16373 bytes OK
+2026/08/17-08:34:00.536 4268 Delete type=0 #13
+2026/08/17-08:34:00.536 4268 Compacting 4@0 + 0@1 files
+2026/08/17-08:34:00.542 4268 Generated table #18@0: 286 keys, 19249 bytes
+2026/08/17-08:34:00.542 4268 Compacted 4@0 + 0@1 files => 19249 bytes
+2026/08/17-08:34:00.543 4268 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/17-08:34:00.544 4268 Delete type=2 #7
+2026/08/17-08:34:00.544 4268 Delete type=2 #11
+2026/08/17-08:34:00.544 4268 Delete type=2 #14
+2026/08/17-08:34:00.544 4268 Delete type=2 #17

@@ -1,9 +1,9 @@
 @echo off
 setlocal
-set "TASK_NAME=ApagadoDiario9AM"
+set "TASK_NAME=ApagadoDiario7PM"
 
 REM Programa un apagado diario a las 09:00, con un aviso de 60 segundos.
-schtasks.exe /Create /TN "%TASK_NAME%" /TR "shutdown.exe /s /f /t 60 /c \"Apagado programado en 60 segundos\"" /SC DAILY /ST 09:00 /RL HIGHEST /F
+schtasks.exe /Create /TN "%TASK_NAME%" /TR "shutdown.exe /s /f /t 60 /c \"Apagado programado en 60 segundos\"" /SC DAILY /ST 19:00 /RL HIGHEST /F
 if errorlevel 1 (
   echo No se pudo crear la tarea. Ejecuta este archivo como administrador.
   pause
@@ -11,6 +11,6 @@ if errorlevel 1 (
 )
 
 echo.
-echo Listo. El equipo se apagara todos los dias a las 9:00 a. m.
+echo Listo. El equipo se apagara todos los dias a las 7:00 P. m.
 echo Para cancelar un apagado que ya inicio: shutdown.exe /a
 pause

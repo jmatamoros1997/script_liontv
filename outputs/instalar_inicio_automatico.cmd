@@ -4,7 +4,7 @@ set "BASE=%~dp0"
 set "PYTHON=%BASE%.venv\Scripts\python.exe"
 set "SCRIPT=%BASE%whatsapp_estados.py"
 set "TASK_NAME=WhatsAppEstadosAutomaticos"
-set "TASK_TIME=08:30"
+set "TASK_TIME=16:28"
 
 if not exist "%PYTHON%" (
   echo No se encontro el entorno virtual: "%PYTHON%"
